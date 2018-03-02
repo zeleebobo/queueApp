@@ -1,0 +1,5 @@
+
+mysql/
+
+web/**/vendor/
+web/**/composer.lock
